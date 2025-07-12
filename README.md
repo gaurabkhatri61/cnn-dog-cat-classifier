@@ -36,7 +36,7 @@ pip install jupyter
 ```
 
 ---
-
+dataset link: https://www.kaggle.com/datasets/bhavikjikadara/dog-and-cat-classification-dataset
 ## 🧠 Training the Model
 
 1. **Prepare the Dataset:**  
